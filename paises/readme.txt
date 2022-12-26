@@ -1,0 +1,7 @@
+http://localhost:8080/paises/OlaBemVindo.html
+Servlets
+http://localhost:8080/paises/ola
+http://localhost:8080/paises//formNovoPais.html
+http://localhost:8080/paises/listaPais
+JSP
+

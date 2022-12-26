@@ -1,0 +1,19 @@
+package br.com.br.Eduardo.paises.servlet;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import br.com.br.Eduardo.paises.entity.Pais;
+
+public class BancoBase{
+
+	private static List<Pais> listaEmpresas = new ArrayList<>();	
+	
+	public Lista(Pais> getpais)
+	
+	public void add(Pais nomePais) {
+
+		
+	}
+
+}

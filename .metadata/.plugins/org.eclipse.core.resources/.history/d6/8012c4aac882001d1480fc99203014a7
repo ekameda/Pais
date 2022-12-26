@@ -1,0 +1,11 @@
+package br.com.br.Eduardo.paises.entity;
+
+import java.util.Date;
+
+public class Empresa {
+	
+	private Integer id;
+	private String nome;
+	private Date data;
+
+}

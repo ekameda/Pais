@@ -1,0 +1,9 @@
+package br.com.br.Eduardo.paises.entity;
+
+public class Empresa {
+	
+	
+	private int id;
+	private String nome;
+
+}

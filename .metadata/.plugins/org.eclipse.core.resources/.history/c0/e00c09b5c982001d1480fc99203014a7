@@ -1,0 +1,10 @@
+package br.com.br.Eduardo.paises.servlet;
+
+public class BancoBase {
+
+	public void add(Empresa nomePais) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

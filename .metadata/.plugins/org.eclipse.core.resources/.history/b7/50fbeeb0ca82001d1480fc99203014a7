@@ -1,0 +1,13 @@
+package br.com.br.Eduardo.paises.servlet;
+
+import br.com.br.Eduardo.paises.entity.Empresa;
+
+public class BancoBase {
+
+	private static List<Empresa>
+	public void add(Empresa nomePais) {
+
+		
+	}
+
+}

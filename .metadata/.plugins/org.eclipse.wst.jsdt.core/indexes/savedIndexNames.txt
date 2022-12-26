@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Eduardo\Extras\paises\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1571952186.index
+393666149.index
+3368095684.index
+4206029320.index
+2633903138.index
+973858458.index
